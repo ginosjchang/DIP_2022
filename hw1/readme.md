@@ -14,3 +14,5 @@
 2. Your program must show the results as before and after the processing step on the screen simultaneously.
 3. Program functionality: Each function can be processed independently, following the previous step, and "undo".
 4. Problem (1) deals with the color imput images, the others problems handle gray level images.
+## More details
+see the ```./report.pdf``` for more details of each problem.
