@@ -1,0 +1,10 @@
+path: ./datasets_V2
+train: [Train/set4, Train/set2, Train/set3]
+val: Train/set1
+test: Val
+
+# Classes
+names:
+  0: powder_uncover
+  1: powder_uneven
+  2: scratch

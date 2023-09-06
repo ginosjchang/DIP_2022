@@ -1,0 +1,11 @@
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\bin\Debug\DIP_hw1.exe.config
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\bin\Debug\DIP_hw1.exe
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\bin\Debug\DIP_hw1.pdb
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.csprojAssemblyReference.cache
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.Form1.resources
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.Properties.Resources.resources
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.csproj.GenerateResource.cache
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.exe
+c:\users\max\source\repos\DIP_hw1\DIP_hw1\obj\Debug\DIP_hw1.pdb
+E:\shang\DIP_hw1\DIP_hw1\bin\Debug\DIP_hw1.exe
